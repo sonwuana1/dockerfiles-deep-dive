@@ -11,3 +11,4 @@ node_modules
 
 # for Node.js app, you don't want to copy in files that are built on the local machine
 dist/
+ node_modules
